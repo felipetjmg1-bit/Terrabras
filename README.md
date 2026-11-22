@@ -1,5 +1,8 @@
 # Terrabras | Proposta de mobilidade elétrica e cadeia de valor mineral
 
+<p align="center"><img src="PROJECT-OVERVIEW.svg" alt="Diagrama explicativo de Terrabras" width="100%"></p>
+
+
 Repositório de documentação conceitual sobre uma iniciativa de mobilidade elétrica brasileira e a possibilidade de desenvolver uma cadeia nacional de valor associada a minerais críticos.
 
 > **Maturidade e transparência:** o conteúdo versionado consultado é documental. Este repositório não comprova a existência de fábrica, veículos homologados, operações de mineração, contratos de fornecimento, parcerias industriais ou produção comercial. As descrições de missão e visão abaixo representam objetivos propostos, não resultados alcançados.
@@ -49,3 +52,6 @@ O material deve ser tratado como estudo preliminar. Afirmações sobre reservas 
 ## Licença
 
 Consulte [LICENSE](LICENSE), se presente, e verifique direitos de terceiros antes de reutilizar materiais. A documentação não constitui oferta de investimento, compromisso de fabricação ou garantia de desempenho.
+
+
+**Empresa responsável:** Impulso Digital Soluções em IA.
