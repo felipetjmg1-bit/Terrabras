@@ -55,3 +55,8 @@ Consulte [LICENSE](LICENSE), se presente, e verifique direitos de terceiros ante
 
 
 **Empresa responsável:** Impulso Digital Soluções em IA.
+
+
+## Fluxo passo a passo
+
+Consulte o [guia textual com as etapas do projeto](docs/PROCESSO-PASSO-A-PASSO.md). O infográfico acima resume visualmente o mesmo fluxo.
